@@ -24,4 +24,5 @@ Methylation_ABCA1_ABCG1.xlsx -- DNA methylation status of ABCA1 and ABCG1 CpG-si
 Pyro_Results (folder) -- Examples of pyrograms for each locus
 
 [1]. Guay SP, Brisson D, Munger J, Lamarche B, Gaudet D, Bouchard L ABCA1 gene promoter DNA methylation is associated with HDL particle profile and coronary artery disease in familial hypercholesterolemia. Epigenetics. 2012 May;7(5):464-72. doi: 10.4161/epi.19633.
+
 [2].Tasnim Dayeh, Tiinamaija Tuomi, Peter Almgren, Alexander Perfilyev, Per-Anders Jansson, Vanessa D. de Mello, Jussi Pihlajamäki, Allan Vaag, Leif Groop, Emma Nilsson, and Charlotte Linga DNA methylation of loci within ABCG1 and PHOSPHO1 in blood DNA is associated with future type 2 diabetes risk. Epigenetics. 2016 Jul; 11(7): 482–488. doi: 10.1080/15592294.2016.1178418
