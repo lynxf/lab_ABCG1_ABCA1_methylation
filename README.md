@@ -18,4 +18,5 @@ chr21:43,656,587 (cg06500161); chr21:43,656,590 5'-GTAAGGTTTGGGGTTATTTTAGTGG-3â€
 *For ABCA1 promoter region average methylation level of promoter 5 CpG-sites was calculated.
 
 Methylation_ABCA1_ABCG1.xlsx -- DNA methylation status of ABCA1 and ABCG1 CpG-sites
+
 Pyro_Results (folder) -- Examples of pyrograms for each locus
